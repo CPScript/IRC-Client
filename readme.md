@@ -6,7 +6,7 @@ A command-line IRC client written in C that allows users to connect to IRC serve
 
 TODO | Is Done?
 ---|---
-Make graphical client | no
+Make a graphical version | [Check out; Nexus](https://github.com/IRC-Graphical/Nexus)
 
 
 ## Features
